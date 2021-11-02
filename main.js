@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   github: 'gustaribeiro',
   linkedin: 'in/gustavo-ribeiro-68421721b/',
-  instagram: 'gustavk_dev'
+  instagram: 'gustavodevk'
 }
 
 function changeSocialMediaLinks() {
